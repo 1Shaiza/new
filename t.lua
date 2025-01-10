@@ -61,7 +61,7 @@ getgenv().Settings = {
             ["All Exclusives"] = {Price = 750000},
             
         },
-        ["Switch Servers"] = {Active = false, SecondDelay = 7, OnlyPRO = false},
+        ["Switch Servers"] = {Active = true, SecondDelay = 7, OnlyPRO = false},
         ["Webhook"] = {Active = true, URL = "https://discord.com/api/webhooks/1318927648814010429/66CdX1sWT551GUnyOeUyDnEujQX7YpG4L1IdhjIl14GiFzxxAtA2mdBrFURh95ruRGS-"},
         ["Kill Switch"] = {
             ["Limits Reached"] = false,
