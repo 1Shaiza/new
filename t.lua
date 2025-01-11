@@ -54,11 +54,6 @@ getgenv().Settings = {
             ["Rainbow All Huges"] = {Price = 35000000},
             ["Golden All Huges"] = {Price = 13000000},
             ["Shiny All Huges"] = {Price = 45000000},
-            ["All Class: Misc"] = {Price = 5},
-            ["All Class: Fruit"] = {Price = 3},
-            ["All Class: Enchant"] = {Price = 5},
-            ["All Class: Potion"] = {Price = 5},
-            ["All Class: Egg"] = {Price = "50%", DetectManipulation = true},
             ["All Exclusives"] = {Price = 750000},
             
         },
