@@ -51,8 +51,8 @@ getgenv().Settings = {
             },
 
             ["All Huges"] = {Price = "95%", DetectManipulation = true, AllTypes = true},
-            ["Rainbow All Huges"] = {Price = 35000000},
-            ["Golden All Huges"] = {Price = 13000000},
+            ["Rainbow All Huges"] = {Price = 40000000},
+            ["Golden All Huges"] = {Price = 16000000},
             ["Shiny All Huges"] = {Price = 45000000},
             ["All Exclusives"] = {Price = 750000},
             
