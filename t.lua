@@ -32,6 +32,7 @@ getgenv().Settings = {
                 ["The Cocktail 1"] = {Price = "40%"},
                 ["Mastery"] = {Price = "25%"},
                 ["Coins 7"] = {Price = "1%"},
+                ["Basic Item Jar"] = {Price = 10000},
                 ["Glitched Drive"] = {Price = "35%"},
                 ["Lucky Eggs 10"] = {Price = 5000000},
                 ["Diamond Gift Hunter 1"] = {Price = "1b"},
